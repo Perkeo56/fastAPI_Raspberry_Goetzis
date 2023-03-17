@@ -1,2 +1,2 @@
 # fastAPI
-Schnittstelle für meinen raspberry
+Schnittstelle für meinen Raspberry PI Server
